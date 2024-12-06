@@ -11,7 +11,7 @@
 <P>Database mannagent Assingnment 4Com2004 Rootstock
 <P>Assessment Centre Experience 2024-2025
 <button type="button" onclick="openpopup('popup Asessment centre experince')">learn more</button>
-<div id="popup-Asessment centere experince class="popup" style="display: non;">
+<div id="popup-Asessment centere-experince class="popup" style="display: none;">
 <div class="Popup content">
 <span class="close onclick="closepopup('popup-asessment centere experince')"<&times;</span
 <p>During my asessment centetre experince
