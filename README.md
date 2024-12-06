@@ -11,5 +11,5 @@
 <P>Assessment Centre Experience 2024-2025
 <button type="button" onclick="openpopup("popup Asessment centre experince")">learn more</button>
 <div class="popup content"
-<Span class="close" onclick="closePopup("popup-Asessment centre experince")">learn more</div>button>
+<Span class="close" onclick="closePopup("popup-Asessment centre experince")"> here i have provided more infomration
 
