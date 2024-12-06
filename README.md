@@ -21,7 +21,7 @@
 function openpopup(id){
 document.getElementById(id).style.display="block";
 }
-function closepopup(id){
+function closepopup(id){  
 document.geteElementbyId(id).style.display="none";
 }
 </script>
