@@ -14,3 +14,10 @@
 <div class="Popup content">
 <span class="close onclick="closepopup("popup-asessment centere experince")"<&times;</span
 <p>During my asessment centetre experince
+</div>
+</div>
+<script>
+function openpopup(id){
+document.getElementById(id).style.display="block";
+}
+
