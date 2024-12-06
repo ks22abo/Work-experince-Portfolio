@@ -10,4 +10,5 @@
 <P>Database mannagent Assingnment 4Com2004 Rootstock
 <P>Assessment Centre Experience 2024-2025
 <button type="button" onclick="openpopup("popup Asessment centre experince")">learn more</button>
+<div class="popup-content">
 
