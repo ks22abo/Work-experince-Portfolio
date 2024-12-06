@@ -18,6 +18,9 @@
 </div>
 </div>
 <script>
+</div>
+</div>
+<script>
 function openpopup(id){
 document.getElementById(id).style.display="block";
 }
