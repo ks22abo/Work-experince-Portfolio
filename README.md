@@ -2,12 +2,20 @@
 <!DOCTYPE html>
 <Html>
 <Head>
-<Title>My work experince projects >/title<
-</Head>
-<Body>
-<h1>Work experince / Projects</h1>
-<P> volunterring  2021-2022 
-<P>Assingment building a Website Electric Cars Team Software Project
-<P>Database mannagent Assingnment 4Com2004 Rootstock
-<P>Assessment Centre Experience 2024-2025</P> 
-<P>Project deatils page link
+<Title>Project deatils page >/title<
+
+<H2>Asessment centere experince 
+<p>In this project i had the opputunity to be able to particpate in this asessment where i had the fortune of having a professional recuriter asess my interview skills as well as point out my strenghts and weaknessess throughout the 
+
+
+
+
+
+
+
+
+
+
+
+
+
