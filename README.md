@@ -9,8 +9,7 @@
 
 
 <H2>Teamsoftware project
-
-
+This was the fitst oppurtunity i had to complete a project within a large group thorughout this project this tested our teamwork and corrodination skills in order to build a suitable website for the topic of eleterical cars within this project we had to ultalise ideal skills such as webssite devolopment numerous books and articles and government websites 
 
 
 
