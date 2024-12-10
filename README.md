@@ -9,10 +9,12 @@
 
 
 <H2>Teamsoftware project
-  <p font size="font-size:6px;":> 
-This was the fitst oppurtunity i had to complete a project within a large group thorughout this project this tested our teamwork and corrodination skills in order to build a suitable website for the topic of eleterical cars within this project we had to ultalise ideal skills such as webssite devolopment numerous books and articles and government websites 
+  <p font size="font-size:6px;"> 
+This was the fitst oppurtunity i had to complete a project within a large group thorughout this project this tested our teamwork and corrodination skills in order to build a suitable website for the topic of eleterical cars within this project we had to ultalise ideal skills such as webssite devolopment numerous books and articles and government websites this assingment helped builld up my ablity to work in a team as well as giving me the opptunity to learn how to gather imfomraation from different sources 
 
 
+<H2>Database Assingnment Rootstock
+<p style="font-size:6px;">In this Assignemnt i had the opprtunity to showcase my 
 
 
 
