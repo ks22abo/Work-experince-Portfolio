@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <Html>
 <Head>
@@ -14,7 +13,8 @@ This was the fitst oppurtunity i had to complete a project within a large group 
 
 
 <H2>Database Assingnment Rootstock
-<p style="font-size:6px;">In this Assignemnt i had the opprtunity to showcase my 
+<p style="font-size:6px;">In this Assignemnt i had the opprtunity to learn how to form a basic database of a rootstock company and being able to sort out all the diffferent types of infomration this was a perfect oppurtunity to intoroduce me to the very basic foundation of database devolpment and with this strong foundation it gives me a nice blueprint to further devolpe these skills in the future for a pontential job opprtunity in the future or internship.
+
 
 
 
