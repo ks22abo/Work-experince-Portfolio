@@ -9,13 +9,15 @@
 
 <H2>Teamsoftware project </H2>
   <p Style="font-size:6px;"> 
-This was the fitst oppurtunity i had to complete a project within a large group thorughout this project this tested our teamwork and corrodination skills in order to build a suitable website for the topic of eleterical cars within this project we had to ultalise ideal skills such as webssite devolopment numerous books and articles and government websites this assingment helped builld up my ablity to work in a team as well as giving me the opptunity to learn how to gather imfomraation from different sources 
+This was the fitst oppurtunity i had to complete a project within a large group thorughout this project this tested our teamwork and corrodination skills in order to build a suitable website for the topic of eleterical cars within this project we had to ultalise ideal skills such as webssite devolopment numerous books and articles and government websites this assingment helped builld up my ablity to work in a team as well as giving me the opptunity to learn how to gather imfomramation from different sources.
 <p/>
 
 
 <H2>Database Assingnment Rootstock </H2>
 <p style="font-size:6px;">In this Assignemnt i had the opprtunity to learn how to form a basic database of a rootstock company and being able to sort out all the diffferent types of infomration this was a perfect oppurtunity to intoroduce me to the very basic foundation of database devolpment and with this strong foundation it gives me a nice blueprint to further devolpe these skills in the future for a pontential job opprtunity in the future or internship.
-<p/>
+
+<H2>Advance Database Assingment </H2>
+
 
 
 
